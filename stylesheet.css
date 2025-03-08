@@ -1,7 +1,19 @@
-.title {
+.youtube67107 {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%;
+}
+.youtube67107 iframe {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+.title67107 {
     color: #02ccba;
 }
-.scroll_color {
+.scroll_color67107 {
   margin     : auto;
   width      : 96%;
   font-size  : 140%;
@@ -9,14 +21,14 @@
   text-align : center;
   overflow   : hidden;
 }
-.scroll_color span{
+.scroll_color67107 span{
   display     : inline-block;
   padding-left: 100%;
   white-space : nowrap;
   line-height : 1em;
-  animation   : scrollAnime_s1 5s linear infinite;
+  animation   : scrollAnime67107 5s linear infinite;
 }
-@keyframes scrollAnime_s1{
+@keyframes scrollAnime67107{
     0% { transform: translateX(0);    color : yellow}
    25% { transform: translateX(-25%); color : blue  }
    50% { transform: translateX(-50%); color : green }

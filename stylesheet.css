@@ -7,9 +7,6 @@
   font-size  : 140%;
   line-height: 1.5em;
   text-align : center;
-  border     : 1px solid #666;
-  color      : #000000;
-  background : #fff;
   overflow   : hidden;
 }
 .scroll_color span{
